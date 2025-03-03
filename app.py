@@ -56,5 +56,5 @@ if st.sidebar.button("Find Similar Passages") and uploaded_files:
 
 st.sidebar.markdown("---")
 st.sidebar.write("Built for Humanities Computing Jan'25")
-st.sidebar.write("For any issues 🙃💔 contact @annabeth97c or Mausam Vora (SUTD)")
+st.sidebar.write("For any issues 🙃💔 contact @annabeth97c or mausamvo@buffalo.edu")
 
