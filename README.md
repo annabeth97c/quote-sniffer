@@ -36,24 +36,7 @@ Activate the conda environment
 conda activate quote-sniffer
 ```
 
-
-### 3. Configuration
-
-Create / modify the configuration file (config/caption_generator_config.yaml) with the necessary parameters. Example configuration is provided in the configs section of this README.
-
-### 4. Run the Captioning System
-
-#### Environment
-
-Open an interactive terminal with the docker container
-```
-docker exec -it megamusicaps_container /bin/bash
-```
-
-Activate conda environment in the interactive terminal
-```
-conda activate megamusicaps
-```
+### 3. Run QuoteSniffer
 
 #### Running the backend
 
