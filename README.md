@@ -6,7 +6,7 @@ Simple StreamLit and FastApi app to find similar chunks / quotes across document
 
 ## Usage
 
-To use QuoteSniffer to find similirities in texts, follow these steps
+To use QuoteSniffer to find similarities in texts, follow these steps
 
 ### 1. Clone repository
 
